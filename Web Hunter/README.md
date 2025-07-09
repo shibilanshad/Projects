@@ -1,6 +1,6 @@
 # WebHunter 🕷️ – Bash-based Web Pentesting Toolkit
 
-> 🔐 Developed by **Shibil Anshad** | MESCE | Cybersecurity Enthusiast  
+> 🔐 Developed by **Shibil Anshad**  
 > 🛠️ A powerful, beginner-friendly Bash script for automating common web app penetration testing tasks.
 
 ---
